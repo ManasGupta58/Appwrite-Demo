@@ -32,6 +32,3 @@ Problems faced:
 		6. Now run it locally in your CLI
 			appwrite run function --function-id=<your-function-name>
 	**Now to make it appear in Appwrite GUI simply type "appwrite push function" and select it**
-
-		
-	Problem 2: Function unable to identify database
