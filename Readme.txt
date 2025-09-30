@@ -35,3 +35,8 @@ Problems faced:
 
 		
 	Problem 2: Function unable to identify database
+	**After any change re-deploy and execute the function**
+		-Verify databse ID and collection ID	
+		-Make a .env file for all the environmental variables
+			-make sure it is not present in the src, the variables wont be read that way
+		-Manage permissions in the database and the API key for preventing auth related bugs
