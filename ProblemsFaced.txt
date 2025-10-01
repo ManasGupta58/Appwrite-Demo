@@ -32,6 +32,7 @@ Problems faced:
 		6. Now run it locally in your CLI
 			appwrite run function --function-id=<your-function-name>
 	**Now to make it appear in Appwrite GUI simply type "appwrite push function" and select it**
+<<<<<<< HEAD:ProblemsFaced.txt
 
 		
 	Problem 2: Function unable to identify database
@@ -40,3 +41,5 @@ Problems faced:
 		-Make a .env file for all the environmental variables
 			-make sure it is not present in the src, the variables wont be read that way
 		-Manage permissions in the database and the API key for preventing auth related bugs
+=======
+>>>>>>> 55086db533c1b1dbd810c8a67ffc5edff4a1f7c1:Readme.txt
